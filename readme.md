@@ -2,7 +2,7 @@
 ========
 
 ## 概要
-[日本十進分類(NDC; Nippon Dicimal Classification)](https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%8D%81%E9%80%B2%E5%88%86%E9%A1%9E%E6%B3%95)のライブラリです。[CyberLibrarianさんのデータ](http://www.asahi-net.or.jp/~ax2s-kmtn/ref/ndc/ndc.html)を元に作成しました。
+[日本十進分類(NDC; Nippon Decimal Classification)](https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%8D%81%E9%80%B2%E5%88%86%E9%A1%9E%E6%B3%95)のライブラリです。[CyberLibrarianさんのデータ](http://www.asahi-net.or.jp/~ax2s-kmtn/ref/ndc/ndc.html)を元に作成しました。
 
 ## 使い方
 ```html
