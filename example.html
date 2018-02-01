@@ -1,0 +1,10 @@
+﻿<input type="number" onkeyup="opt(ndc_check(this.value))"><span id="output"></span>
+<script src="ndc.js"></script>
+<script>
+function opt(text){
+  document.getElementById("output").innerText=text;
+}
+function ndc_check(code){
+  return NDC.getFullDescription(code).join("-");
+}
+</script>
